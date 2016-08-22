@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/white"
+    tools:context="eidreceipie.islam.mazharul.citycorporationchittagong.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:layout_weight="0.1">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/red"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Empowering Digital Bangladesh"
+                android:id="@+id/textView9" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center_horizontal"
+            android:layout_weight="0.4">
+
+            <ImageView
+                android:layout_width="180dp"
+                android:background="@drawable/starting_page_logo"
+                android:layout_marginBottom="10dp"
+                android:layout_height="180dp"
+                android:id="@+id/city_logo" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_weight="0.2">
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp" android:textColor="@color/black"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="চট্টগ্রাম সিটি কর্পোরেশন"
+            android:id="@+id/textView" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25dp" android:textColor="@color/black"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Chittagong City Corporation"
+                android:id="@+id/textViews" />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_weight="0.2">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="নগরপিতা: আ.জ.ম নাছির"
+                android:id="@+id/textView2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="City Mayor: A.J.M Nasir"
+                android:id="@+id/textView3" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"></LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:id="@+id/t_s"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+
+        android:gravity="center"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+
+            android:layout_height="wrap_content"
+            android:text="Powered By"/>
+
+
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_marginLeft="10dp"
+
+                android:background="@drawable/t_shoot"
+                android:layout_height="120dp" />
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

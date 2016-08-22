@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">চট্টগ্রাম সিটি কর্পোরেশন</string>
+
+    <string name="btn1">বিভিন্ন সেবামূলক প্রতিষ্ঠান</string>
+    <string name="btn11">Different Service Providing Organization</string>
+    <string name="btn2">আমাদের সেবা সমূহ</string>
+    <string name="btn21">Our Services</string>
+    <string name="btn3">নগর উন্নয়নে গৃহীত পদক্ষেপ </string>
+    <string name="btn31">Steps Taken for City Development</string>
+    <string name="btn4">চলমান উন্নয়ন মূলক কাজ</string>
+    <string name="btn41">Different Development Work</string>
+    <string name="btn5">বিভিন্ন ফর্ম</string>
+    <string name="btn51">Different Form</string>
+    <string name="btn6">তথ্য ও অভিযোগ কেন্দ্র</string>
+    <string name="btn61">Information and Complain Center</string>
+
+    <string name="home">হোম পেজ</string>
+    <string name="homes">নোটিশ বোর্ড</string>
+    <string name="samprotik">সাম্প্রতিক তথ্যাবলী</string>
+    <string name="coloman_unnoyon">চলমান উন্নয়নমূলক কাজ</string>
+    <string name="nogor_unnoyon">নগর উন্নয়নে গৃহীত পদক্ষেপ</string>
+    <string name="amader_seba">আমাদের সেবা সমূহ</string>
+    <string name="tothy_ovijog">তথ্য ও অভিযোগ কেন্দ্র</string>
+    <string name="banner_ctg">আসুন আমরা চট্টগ্রামকে একটি আধুনিক, ডিজিটাল, উন্নত এবং সর্বোপরি আদর্শ সিটি কর্পোরেশনে পরিনত করি। </string>
+
+
+</resources>
